@@ -1,8 +1,8 @@
-# Порог совпадения шаблонов
+# NGUONG KHOP MAU
 THRESHOLD = 0.8
 
-# Горячая клавиша для запуска/остановки скрипта
-HOTKEY = 'F6'
+# PHIM BAT DAU/DUNG
+HOTKEY = 'F5'
 
-# Ключевые слова для поиска окон с игрой
+# TU KHOA TIM KIEM WINDOWS GAME
 KEYWORDS = ["OKX", "Telegram"]
